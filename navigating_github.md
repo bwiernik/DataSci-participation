@@ -1,7 +1,7 @@
 # Helpful Links
 
 
-Here is the URL to the **DataSci** repo:
+Here is _the_ URL to the **DataSci** repo:
 
 [DataSci Home](https://github.com/USF-Psych-DataSci/DataSci-home)
 
