@@ -1,5 +1,5 @@
 ---
-title: "Tibble Exploration"
+title: "RMarkdown Exploration"
 output: ioslides_presentation
 ---
 
