@@ -1,7 +1,12 @@
 # DataSci-participation
 
-This is a repo for in-class participation. Below you will find a sample README
-file demonstrating several Markdown features. 
+This is a repo for in-class participation. You can use my repo as a model for
+what your participation repo should look like/the files it should contain.
+
+You can find a checklist for what you need to include in your participation repo
+[here](https://wiernik-datasci.netlify.com/evaluation/participation_checklist/)
+
+Below you will find a sample README file demonstrating several Markdown features. 
 
 # A Sample Readme in the Style of Github Markdown
 
